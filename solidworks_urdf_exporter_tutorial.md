@@ -1,8 +1,7 @@
-
+## Solidworks URDF Exporter Tutorial
 
 ### About the ROS Solidworks URDF exporter
 
-#
 The Solidworks URDF exporter plugin allows you to convert a CAD model to a URDF file which can be used in various ROS packages.
 Although the tool works, it doesnt work all the time. While generating the URDF for our Robot at [Octoloop](http://octoloop.in), we ran into many problems initially, since our model included a lot of complicated assemblies.
 
